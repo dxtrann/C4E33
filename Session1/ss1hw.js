@@ -64,7 +64,7 @@ fd(70)
 rt(135)
 fd(98.99)
 
-// 7. Draw a circle:
+// 7. Draw a circle: add color Color("")
 
 for (let i =0 ; i < 360;i++){
     fd(1)
