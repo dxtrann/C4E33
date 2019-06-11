@@ -1,15 +1,15 @@
-//1
+// 1
 // let x = prompt("Enter x: ")
 // let y = prompt("Enter y: ")
 // total = Number(x) + Number(y)
 // console.log(total)
 
-//// let x = Number(prompt("Enter x"))
-//// let y = Number(prompt("Enter y"))
-//// let total = x + y
-//// console.log(total)
+// // let x = Number(prompt("Enter x"))
+// // let y = Number(prompt("Enter y"))
+// // let total = x + y
+// // console.log(total)
 
-//2
+// 2
 // let x = Number(prompt("Enter x: "))
 // let op = prompt("Enter sign: ")
 // let y = Number(prompt("Enter y: "))
